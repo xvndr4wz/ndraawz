@@ -1,13 +1,12 @@
 {
-    "name": "@xvndr4wz/ndraawz",
+    "name": "Ndraawz",
     "type": "module",
     "version": "2.0.0",
     "description": "A WebSockets library for interacting with WhatsApp Web.",
     "keywords": [
         "baileys",
         "whatsapp",
-        "whatsapp-baileys",
-        "whatsapp-api"
+        "whatsapp-baileys"
     ],
     "homepage": "https://github.com/xvndr4wz/ndraawz",
     "repository": {
